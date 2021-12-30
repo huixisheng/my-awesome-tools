@@ -54,7 +54,7 @@ hosts 环境切换
 ![0K74Ww_BL459K](https://cdn.byai.com/static/images/0K74Ww_BL459K.png)
 
 ### [any-rule](https://github.com/cccyb/workflows)
-![L6OPxP_lVBeM0](https://cdn.byai.com/static/images/L6OPxP_lVBeM0.jpg)
+![7uPwuU_IgPkEF](https://cdn.byai.com/static/images/7uPwuU_IgPkEF.png)
 
 
 ### [YoudaoTranslate | 有道翻译](https://github.com/wensonsmith/YoudaoTranslator)
