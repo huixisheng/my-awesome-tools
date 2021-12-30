@@ -40,6 +40,13 @@ hosts 环境切换
 ![3f0qZX_fS8bzL](https://cdn.byai.com/static/images/3f0qZX_fS8bzL.png)
 ![olg85D_JtzYQb](https://cdn.byai.com/static/images/olg85D_JtzYQb.png)
 
+**📢 注意:** 
+![5uL1dL_ecggGZ](https://cdn.byai.com/static/images/5uL1dL_ecggGZ.png)
+
+
+![ed9iDf_fZmnSg](https://cdn.byai.com/static/images/ed9iDf_fZmnSg.png)
+以上方案来着 @宗纯。
+
 ### [CodeVar](https://github.com/xudaolong/CodeVar)
 > 生成可用的代码变量，支持大驼峰dt、小驼峰xt、下划线xh、常量cl、中划线zh 等命名自动转换。程序员 👨🏻‍💻 写代码命名的神器。来源 [@双鱼](https://juejin.cn/user/307518985745895) 推荐。
 
