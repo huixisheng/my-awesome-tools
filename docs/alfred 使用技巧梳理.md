@@ -1,6 +1,11 @@
 # alfred 使用技巧梳理
 
 ## Workflows
+### [super-solution-search](../workflows/super-solution-search.alfredworkflow)
+> 一键打开多个搜索解决方案的网址。
+
+![X8OOJt_S72IB2](https://cdn.byai.com/static/images/X8OOJt_S72IB2.png)
+
 ### [IP](https://github.com/zenorocha/alfred-workflows/)
 > 快速查询本地ip 和公网出口 ip。`ifconfig` `ip a` 等命令还是不够方便。
 
@@ -40,12 +45,25 @@ hosts 环境切换
 
 ![0K74Ww_BL459K](https://cdn.byai.com/static/images/0K74Ww_BL459K.png)
 
+### [any-rule](https://github.com/cccyb/workflows)
+![L6OPxP_lVBeM0](https://cdn.byai.com/static/images/L6OPxP_lVBeM0.jpg)
+
 
 ### [YoudaoTranslate | 有道翻译](https://github.com/wensonsmith/YoudaoTranslator)
 
 > 快速使用有道翻译。
 
 ![MV4ZuK_bYAjU0](https://cdn.byai.com/static/images/MV4ZuK_bYAjU0.png)
+
+### 商城
+- https://www.alfredworkflows.store/workflows
+- https://www.packal.org/workflow-search
+- https://www.alfredapp.com/workflows/
+- https://github.com/alfred-workflows/awesome-alfred-workflows
+
+### 编写
+- https://github.com/giangvo/alfred-workflow-nodejs
+- https://github.com/sindresorhus/alfy
 
 ## Features
 ### Web Search
