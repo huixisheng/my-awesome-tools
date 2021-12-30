@@ -4,7 +4,8 @@
 ### [super-solution-search](../workflows/super-solution-search.alfredworkflow)
 > 一键打开多个搜索解决方案的网址。
 
-![X8OOJt_S72IB2](https://cdn.byai.com/static/images/X8OOJt_S72IB2.png)
+![11DUxF_WMv2Bp](https://cdn.byai.com/static/images/11DUxF_WMv2Bp.png)
+![EY56c6_rqoOjX](https://cdn.byai.com/static/images/EY56c6_rqoOjX.png)
 
 ### [IP](https://github.com/zenorocha/alfred-workflows/)
 > 快速查询本地ip 和公网出口 ip。`ifconfig` `ip a` 等命令还是不够方便。
