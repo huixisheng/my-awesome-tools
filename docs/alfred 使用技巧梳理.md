@@ -63,15 +63,26 @@ hosts 环境切换
 
 ![MV4ZuK_bYAjU0](https://cdn.byai.com/static/images/MV4ZuK_bYAjU0.png)
 
+### [AlfredWorkflow-Recent-Documents](https://github.com/mpco/AlfredWorkflow-Recent-Documents)
+> 快捷打开最近访问的文档或应用
+
 ### 商城
 - https://www.alfredworkflows.store/workflows
 - https://www.packal.org/workflow-search
 - https://www.alfredapp.com/workflows/
 - https://github.com/alfred-workflows/awesome-alfred-workflows
+- https://github.com/zenorocha/alfred-workflows
+- https://github.com/learn-anything/alfred-workflows
+- https://www.alfredforum.com/
+- https://github.com/vitorgalvao/alfred-workflows
 
 ### 编写
 - https://github.com/giangvo/alfred-workflow-nodejs
 - https://github.com/sindresorhus/alfy
+- Tutorial: Share your Workflows Using GitHub - Alfred Blog [https://www.alfredapp.com/blog/guides-and-tutorials/share-workflow-on-github/](https://www.alfredapp.com/blog/guides-and-tutorials/share-workflow-on-github/)
+
+### 参考
+- 借助 Alfred 的 Workflows 功能可以做哪些好玩的事情？ - 知乎 [https://www.zhihu.com/question/20656680](https://www.zhihu.com/question/20656680)
 
 ## Features
 ### Web Search
